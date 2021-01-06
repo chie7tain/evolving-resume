@@ -1,0 +1,317 @@
+{
+	"awards": {
+		"heading": "Awards",
+		"visible": true
+	},
+	"certifications": {
+		"heading": "Certifications",
+		"visible": true,
+		"items": [
+			{
+				"title": "Responsive Web Design",
+				"issuer": "FreeCodeCamp",
+				"date": "2020-07-10",
+				"summary": "",
+				"id": "74efe773-12c1-48c0-82d6-201b6ef0c1e8"
+			},
+			{
+				"title": "Build your first HTML.,CSS and JS page ",
+				"issuer": "Openclassrooms",
+				"date": "2020-03-03",
+				"summary": "",
+				"id": "5fdad947-4251-4609-8259-015219d8688c"
+			}
+		]
+	},
+	"education": {
+		"heading": "Education",
+		"visible": true,
+		"items": [
+			{
+				"institution": "FreeCodeCamp.org",
+				"field": "Frontend Development",
+				"degree": "Responsive Web Design",
+				"gpa": "",
+				"startDate": "2020-01-04",
+				"endDate": "2020-07-07",
+				"summary": "",
+				"id": "817121ac-4820-42b2-9c89-f908d20d780f"
+			},
+			{
+				"institution": "OpenClassrooms",
+				"field": "Frontend Development",
+				"degree": "write JavaScript for the Web",
+				"gpa": "",
+				"startDate": "2019-10-05",
+				"endDate": "2019-12-23",
+				"summary": "This was a program organised by the Facebook developer circle to train individuals on how to code",
+				"id": "c9f7b788-fb3e-4113-bb92-e9c225bb24a8"
+			},
+			{
+				"institution": "Pluralsight  ",
+				"field": "Mobile Web",
+				"degree": "",
+				"gpa": "",
+				"startDate": "2019-06-02",
+				"endDate": "2019-11-06",
+				"summary": "This was a program organised by the Andela Learning community and Google Africa",
+				"id": "cfee4622-41d7-4a9d-a5b0-d2d76593db67"
+			},
+			{
+				"institution": "Delta State University Abraka",
+				"field": "Marketing",
+				"degree": "Bachelor's Degree",
+				"gpa": "",
+				"startDate": "2010-02-01",
+				"endDate": "2014-10-22",
+				"summary": "",
+				"id": "a76ef5b8-afa8-4f76-b2f0-7a1b8799b69d"
+			}
+		]
+	},
+	"hobbies": {
+		"heading": "Hobbies",
+		"visible": true,
+		"items": [
+			{
+				"name": "Volleyball",
+				"id": "2806091e-aeba-4831-a652-33a1cb623d32"
+			},
+			{
+				"name": "Table Tennis",
+				"id": "a60f409b-19d7-4994-8065-1f9797e89a46"
+			},
+			{
+				"name": "Reading Interesting Books",
+				"id": "a238c5e5-9554-4a6a-a66a-603e95ab9e95"
+			}
+		]
+	},
+	"languages": {
+		"heading": "Languages",
+		"visible": true,
+		"items": [
+			{
+				"name": "English",
+				"fluency": "Fluent",
+				"id": "47573692-4644-4b7c-8727-7de836ead4f6"
+			}
+		]
+	},
+	"metadata": {
+		"colors": {
+			"background": "#FFFFFF",
+			"primary": "#2196F3",
+			"text": "#444444"
+		},
+		"font": "Open Sans",
+		"language": "en",
+		"layout": {
+			"castform": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"celebi": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"gengar": [
+				[
+					"objective",
+					"skills"
+				],
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"references",
+					"hobbies"
+				],
+				[
+					"work",
+					"education",
+					"projects"
+				]
+			],
+			"glalie": [
+				[
+					"awards",
+					"certifications",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"languages",
+					"references"
+				]
+			],
+			"onyx": [
+				[
+					"objective",
+					"work",
+					"education",
+					"projects"
+				],
+				[
+					"hobbies",
+					"languages",
+					"awards",
+					"certifications"
+				],
+				[
+					"skills",
+					"references"
+				]
+			],
+			"pikachu": [
+				[
+					"skills",
+					"languages",
+					"hobbies",
+					"awards",
+					"certifications"
+				],
+				[
+					"work",
+					"education",
+					"projects",
+					"references"
+				]
+			]
+		},
+		"template": "glalie"
+	},
+	"objective": {
+		"body": "To learn, grow and become the best version of myself in order to build useful life changing products.",
+		"heading": "Objective",
+		"visible": true
+	},
+	"preview": "https://images.unsplash.com/photo-1604681310718-49b190ccdcd8?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixlib=rb-1.2.1&q=80&w=400",
+	"profile": {
+		"address": {
+			"city": "Abuja",
+			"line1": "Plot C80 Abuja Nigeria",
+			"line2": "",
+			"pincode": ""
+		},
+		"email": "fredrickokwuobi@gmail.com",
+		"firstName": "Ifeanyi",
+		"heading": "Profile",
+		"lastName": "Okwuobi",
+		"photograph": "https://firebasestorage.googleapis.com/v0/b/rx-resume.appspot.com/o/users%2FgbbZ3JqXSefCpnykWKAetlQM3xp2%2Fphotographs%2Fbyeqzm?alt=media&token=ce3fd3b3-d0b7-47c8-a79c-b8527b79ee58",
+		"subtitle": "Frontend Developer",
+		"website": "https://chie7tain.netlify.app",
+		"phone": "08034829625"
+	},
+	"projects": {
+		"heading": "Projects",
+		"visible": true,
+		"items": [
+			{
+				"title": "Landing page for hotel ",
+				"link": "https://hotelesty-chie7tain.netlify.app/",
+				"date": "2020-05-15",
+				"summary": "",
+				"id": "96d3ede2-47e7-4853-aea1-e8613fe27c8d"
+			},
+			{
+				"title": "Landing page for loan app",
+				"link": "https://landingloan.netlify.app/",
+				"date": "2020-07-22",
+				"summary": "",
+				"id": "8373ad7a-5acd-44ed-a1be-41d8121c99d7"
+			},
+			{
+				"title": "repo page of my git hub dashboard",
+				"link": "http://gi7hubdashboard.netlify.app/",
+				"date": "2020-11-30",
+				"summary": "",
+				"id": "99522721-c329-4e7e-b63b-74ee05ad44d7"
+			},
+			{
+				"title": "Js Technical Doc page",
+				"link": "https://technicaldocpagejs.netlify.app/",
+				"date": "2020-03-22",
+				"summary": "",
+				"id": "592971fb-4754-4d38-afa9-07928350fec3"
+			},
+			{
+				"title": "responsive search page for school",
+				"link": "https://searchpage-envato.netlify.app/",
+				"date": "2020-04-08",
+				"summary": "",
+				"id": "f23c960b-f026-4ab9-8449-8413fae5f40e"
+			}
+		]
+	},
+	"public": true,
+	"references": {
+		"heading": "References",
+		"visible": true
+	},
+	"skills": {
+		"heading": "Skills",
+		"visible": true,
+		"items": [
+			{
+				"name": "HTML",
+				"level": "Proficient",
+				"id": "377bbb08-4044-4360-8f84-5342596e6a33"
+			},
+			{
+				"name": "CSS",
+				"level": "Proficient",
+				"id": "2eacb686-ecca-4858-b081-a78294924799"
+			},
+			{
+				"name": "JavaScript",
+				"level": "Proficient",
+				"id": "11cb69b8-74f2-4f50-9a0e-66dacf3706b3"
+			}
+		]
+	},
+	"social": {
+		"heading": "Social Network",
+		"visible": true,
+		"items": [
+			{
+				"url": "https://twitter.com/ol7mpian",
+				"network": "Twitter",
+				"username": "ol7mpian",
+				"id": "e5ba0281-92be-4dcf-a28c-fd1977c4bee5"
+			}
+		]
+	},
+	"work": {
+		"heading": "Work Experience",
+		"visible": true
+	}
+}
